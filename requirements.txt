@@ -1,0 +1,10 @@
+streamlit as st
+pandas as pd
+numpy as np
+librosa
+sklearn
+keras
+librosa
+json
+glob
+os
