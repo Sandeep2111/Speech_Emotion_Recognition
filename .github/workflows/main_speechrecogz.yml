@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'speechrecogz'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_208b211ef9494de1b614b2245e225401 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_31d453d4f40c4a4baa7c2662b9f78ed7 }}
