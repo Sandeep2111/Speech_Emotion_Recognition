@@ -5,6 +5,6 @@ librosa
 sklearn
 keras
 librosa
-json
+jsons
 glob
 os
