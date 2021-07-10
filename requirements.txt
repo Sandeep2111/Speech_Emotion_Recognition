@@ -1,9 +1,10 @@
 streamlit
-pandas 
+pandas
 numpy
 librosa
+SoundFile
 sklearn
+tensorflow
 keras
 librosa
 jsons
-tensorflow 
