@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 librosa
-SoundFile
 sklearn
 tensorflow
 keras
